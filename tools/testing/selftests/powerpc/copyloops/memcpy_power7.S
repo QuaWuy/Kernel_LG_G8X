@@ -1,0 +1,1 @@
+/data/local/chroot-distro/debian/root/android_kernel_lge_sm8150/arch/powerpc/lib/memcpy_power7.S
